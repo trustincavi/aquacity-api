@@ -1,4 +1,4 @@
-namespace aquacity
+namespace aquacity.apis
 {
     public class WeatherForecast
     {

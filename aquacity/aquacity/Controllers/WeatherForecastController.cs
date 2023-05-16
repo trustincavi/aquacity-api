@@ -1,6 +1,7 @@
+using aquacity.apis;
 using Microsoft.AspNetCore.Mvc;
 
-namespace aquacity.Controllers
+namespace aquacity.apis.Controllers
 {
     [ApiController]
     [Route("[controller]")]
